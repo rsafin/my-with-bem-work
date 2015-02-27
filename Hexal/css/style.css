@@ -24,16 +24,16 @@
 
 .b-menu__links_left {
      float: left;
-     padding-left: 325px;
+     padding-left: 300px;
  }
 .b-menu__links_right {
     float: right;
-    padding-right: 325px;
+    padding-right: 300px;
 }
 
 .b-menu__link {
     color: #fff;
-    font-size: 10px;
+    font-size: 10pt;
 }
 
 .b-menu__link_left:last-child {
@@ -75,7 +75,7 @@
 
 .b-about-me__content_title {
     color: #d7fcf5;
-    font-size: 30px;
+    font-size: 30pt;
     line-height: 20px;
 }
 .b-about-me__content_subtitle {
@@ -85,7 +85,7 @@
 }
 .b-about-me__content_text {
     color: #d7fcf5;
-    font-size: 12px;
+    font-size: 12pt;
     margin-top: 20px;
     line-height: 20px;
     text-align: justify;
@@ -139,7 +139,7 @@
 }
 .b-feedback__info {
     margin-left: 600px;
-    font-size: 12px;
+    font-size: 12pt;
     color: #8f8f8f;
 }
 .b-feedback__info_text {
