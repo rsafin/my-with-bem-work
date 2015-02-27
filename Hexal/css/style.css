@@ -57,7 +57,6 @@
     margin: 0 auto;
 }
 .b-page__slider {
-    height: 695px;
     text-align: center;
 }
 .b-page__about-me {
@@ -207,5 +206,26 @@
 }
 .b-social_dribbble {
     background: url("../img/social.png") 24px;
+}
+
+.b-slider__buttons {
+    float: left;
+    padding-bottom: 24px;
+}
+
+.b-slider__button {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: #ddd2c5;
+    cursor: pointer;
+}
+
+.b-slider__button:hover {
+    background-color: #8b8784;
+}
+
+.b-slider__button_active {
+    background-color: #8b8784;
 }
 
