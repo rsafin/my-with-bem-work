@@ -89,6 +89,7 @@
     font-size: 12px;
     margin-top: 20px;
     line-height: 20px;
+    text-align: justify;
 }
 .b-page__feedback {
     background-color: #323232;
@@ -179,4 +180,32 @@
     font-weight: bold;
 }
 
+.b-about-me__content_social {
+    float: right;
+}
+
+.b-social {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+.b-social_facebook {
+    background: url("../img/social.png") 0;
+}
+.b-social_twitter {
+    background: url("../img/social.png") 122px;
+}
+.b-social_google {
+    background: url("../img/social.png") 97px;
+}
+.b-social_pinterest {
+    background: url("../img/social.png") 72px;
+}
+.b-social_linkedin {
+    background: url("../img/social.png") 48px;
+}
+.b-social_dribbble {
+    background: url("../img/social.png") 24px;
+}
 
